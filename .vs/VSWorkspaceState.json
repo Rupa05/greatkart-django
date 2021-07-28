@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\accounts\\migrations",
+    "\\category",
+    "\\greatkart",
+    "\\greatkart\\static",
+    "\\store",
+    "\\templates",
+    "\\templates\\store"
+  ],
+  "SelectedNode": "\\store\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
