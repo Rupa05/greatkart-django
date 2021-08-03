@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\accounts",
     "\\carts",
-    "\\store",
+    "\\greatkart",
+    "\\greatkart\\static",
+    "\\greatkart\\static\\js",
     "\\templates",
+    "\\templates\\accounts",
+    "\\templates\\includes",
     "\\templates\\store"
   ],
   "SelectedNode": "\\carts\\views.py",
