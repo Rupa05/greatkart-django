@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\accounts",
-    "\\accounts\\migrations",
-    "\\orders",
-    "\\store",
-    "\\templates",
-    "\\templates\\accounts",
-    "\\templates\\includes",
-    "\\templates\\orders",
-    "\\templates\\store"
+    "\\.ebextensions",
+    "\\greatkart"
   ],
-  "SelectedNode": "\\templates\\store\\product_detail.html",
+  "SelectedNode": "\\greatkart\\urls.py",
   "PreviewInSolutionExplorer": false
 }
