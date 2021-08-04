@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\accounts",
-    "\\carts",
-    "\\greatkart",
-    "\\greatkart\\static",
-    "\\greatkart\\static\\js",
+    "\\accounts\\migrations",
+    "\\orders",
+    "\\store",
     "\\templates",
     "\\templates\\accounts",
     "\\templates\\includes",
+    "\\templates\\orders",
     "\\templates\\store"
   ],
-  "SelectedNode": "\\carts\\views.py",
+  "SelectedNode": "\\templates\\store\\product_detail.html",
   "PreviewInSolutionExplorer": false
 }
